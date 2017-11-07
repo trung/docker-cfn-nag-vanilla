@@ -1,0 +1,1 @@
+./cfn_nag/lib/cfn-nag/custom_rules/*Rule.rb
